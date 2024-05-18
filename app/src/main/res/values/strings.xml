@@ -11,4 +11,9 @@
     <string name="sign_in">Sign In</string>
     <string name="don_t_have_an_account">Don`t have an account?</string>
     <string name="let_s_register">Let`s Register</string>
+    <string name="Signup_form">SIGNUP FORM</string>
+    <string name="Account">Accept terms and conditions</string>
+    <string name="Have_account">already have an account</string>
+    <string name="Registration">Registration form</string>
+    <string name="Sign_in">Sign in</string>
 </resources>
